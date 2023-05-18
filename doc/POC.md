@@ -43,7 +43,7 @@ argocd login <ARGOCD_SERVER>
 argocd account update-password
  ```
 4. Save password in a safe place and provide credentials to the team 
+![ArgoCD login](https://github.com/ibayro/AsciiArtify/assets/104074570/4df597c1-3fd1-4a25-bf81-2ed799c4c7a0)
 
-![image](https://github.com/ibayro/AsciiArtify/assets/104074570/621f2a7c-9070-4a8c-ae9a-553c7de6fcb5)
 
 
